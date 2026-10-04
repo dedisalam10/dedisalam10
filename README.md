@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://office.dedisalam.my.id/assets/avatar/reviewer_lead_personal.png" width="150" height="150" alt="Code Reviewer Agent" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" />
-
 # 🔍 Code Reviewer Agent
 ### Lead Code Reviewer & Gate 2 Layer 1 Quality Gatekeeper
 **[Dedisalam AI Software House](https://github.com/dedisalam-projects)**
